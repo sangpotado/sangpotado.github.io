@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Sang Do</title><link>/post/</link><description>Recent content in Posts on Sang Do</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 24 Jun 2024 00:09:39 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml"/><item><title>Old Stuff</title><link>/p/old-stuff/</link><pubDate>Mon, 24 Jun 2024 00:09:39 +0000</pubDate><guid>/p/old-stuff/</guid><description>&lt;p>&lt;a class="link" href="https://sangpotado.github.io/old-blog/gameproject/" target="_blank" rel="noopener"
+>Game Project&lt;/a>&lt;/p>
+&lt;p>&lt;a class="link" href="https://sangpotado.github.io/old-blog/math/" target="_blank" rel="noopener"
+>math&lt;/a>&lt;/p>
+&lt;p>in case I forget, I used to write a lot of zen stuff, it was like purging the mind. Knowledge and thoughts are not very useful if they&amp;rsquo;re not put into practice tho.&lt;/p></description></item><item><title>Particles of Life</title><link>/p/particles-of-life/</link><pubDate>Sun, 23 Jun 2024 23:30:23 +0000</pubDate><guid>/p/particles-of-life/</guid><description>&lt;img src="/p/particles-of-life/particles.png" alt="Featured image of post Particles of Life" />&lt;p>I like &lt;code>brainxyz&lt;/code> youtube channel a lot. He uses Computer Science as a tool to study consciousness, intelligence, the universe, etc&amp;hellip; Which is also my approach, but he&amp;rsquo;s on a different level.&lt;/p>
+&lt;p>Here&amp;rsquo;s the video that inspires this project: &lt;a class="link" href="https://www.youtube.com/watch?v=0Kx4Y9TVMGg&amp;amp;t=396s" target="_blank" rel="noopener"
+>Create Artificial Life From Simple Rules - Particle Life&lt;/a>&lt;/p>
+&lt;p>For my project, I kinda applied OOP principle, because I&amp;rsquo;m gonna make more simulations based on this work. &lt;code>p5js&lt;/code> makes the code much slower, but well, the further work will make it worth it. This is also a good refresh on HTML and CSS.&lt;/p>
+&lt;p>&lt;a class="link" href="https://sangpotado.github.io/particles-of-life/" target="_blank" rel="noopener"
+>MY PARTICLES OF LIFE&lt;/a>&lt;/p>
+&lt;p>Have fun!&lt;/p></description></item></channel></rss>
